@@ -20,9 +20,9 @@ ul li {
 
 <!-- Your list -->
 <ul>
-  <li>Item 1</li>
-  <li>Item 2</li>
-  <li>Item 3</li>
+  <li><i>Italic</i></li>
+  <li><b>BOLD</b></li>
+  <li><p>This is <span class="line-through">struck through</span> text.</p></li>
 </ul>
 
 </body>
