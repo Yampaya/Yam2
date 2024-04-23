@@ -1,3 +1,3 @@
 
 
-<li><a href="https://yampaya.github.io/yam/index.html">INDEX!</a>
+<li><a href="https://yampaya.github.io/Yam2/">INDEX!</a>
