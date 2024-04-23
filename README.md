@@ -1,1 +1,1 @@
-# Yam2
+# allign=centre<i>Yam Time</i>
