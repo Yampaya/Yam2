@@ -1,3 +1,2 @@
-</li> align=center><i>Yam Time</i> 
-
+<li align=right><p><i>Yam Time</i></p>
 
