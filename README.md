@@ -23,6 +23,9 @@ ul li {
   <li><i>Italic</i></li>
   <li><b>BOLD</b></li>
   <li><p>This is <span class="line-through">struck through</span> text.</p></li>
+  <li> .line-through {
+  text-decoration: line-through;
+}</li>
 </ul>
 
 </body>
