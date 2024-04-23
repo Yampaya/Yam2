@@ -1,20 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {
+  font-family: Arial, sans-serif;
+}
+</style>
 </head>
 <body>
 
-<!-- Your list -->
-<ul>
-  <li><i>Italic</i></li>
-  <li><b>BOLD</b></li>
-  <li><p>This is <span class="line-through">struck through</span> text.</p></li>
-  <li> {
-  font-family: Arial, sans-serif;
-}</li>
-</ul>
+<h1>Lorem ipsum dolor sit amet</h1>
+
+<p>Lorem ipsum dolor sit amet.</p>
+<p>0 1 2 3 4 5 6 7 8 9</p>
 
 </body>
 </html>
