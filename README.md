@@ -1,2 +1,3 @@
 
-<li>https://github.com/Yampaya/Yam2/blob/main/Yam/index.html</li>
+
+<li><a href="https://github.com/Yampaya/Yam2/blob/main/Yam/index.html">INDEX!</a>
