@@ -1,1 +1,1 @@
-School https://yampaya.github.io/Yam2/Yam/index.html
+https://yampaya.github.io/Yam2/Yam/index.html
